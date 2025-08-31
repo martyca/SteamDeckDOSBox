@@ -10,7 +10,7 @@ git clone git@github.com:martyca/SteamDeckDOSBox.git
 ```
 
 ### Setup / Validation
-To ensure a valid setup run `./setup/setup.sh' this will check if the correct flatpak is installed and if it has the correct permissions.
+To ensure a valid setup run ```./setup/setup.sh``` this will check if the correct flatpak is installed and if it has the correct permissions.
 
 
 
