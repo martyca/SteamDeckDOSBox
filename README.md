@@ -14,4 +14,7 @@ To ensure a valid setup run ```./setup/setup.sh``` this will check if the correc
 
 
 
+## Games
 
+### Lands of Lore
+[Readme](./LoL/README.md)
